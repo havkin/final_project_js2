@@ -77,5 +77,7 @@ export default {
 };
 </script>
 
-<style>
+<style lang="sass">
+@import 'style/normalize.css'
+@import 'style/style.css'
 </style>
