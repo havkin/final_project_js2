@@ -10,7 +10,7 @@
     </div>
     <div class="right-block">
       <p class="product-price">\${{ item.quantity * item.price }}</p>
-      <button class="del-btn" @click="$root.$refs.cart.removeItemfromDB(item)">&times;</button>
+      <button class="del-btn" @click="$parent.$parent.$refs.cart.removeItemfromDB(item)">&times;</button>
     </div>
   </div>
 </template>

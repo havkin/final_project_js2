@@ -7,12 +7,19 @@
       "title": "Notebook",
       "price": 1000,
       "img": "https://placehold.it/100x80",
-      "quantity": 2
+      "quantity": 1
     },
     {
-      "id": 5,
-      "title": "Phones",
-      "price": 25,
+      "id": 6,
+      "title": "Router",
+      "price": 30,
+      "img": "https://placehold.it/100x80",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Keyboard",
+      "price": 20,
       "img": "https://placehold.it/100x80",
       "quantity": 1
     }
